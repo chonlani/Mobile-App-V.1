@@ -1,0 +1,12 @@
+{
+  "name": "chonlani-app",
+  "displayName": "chonlani-app",
+  "expo": {
+    "name": "chonlani-app",
+    "slug": "chonlani-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
