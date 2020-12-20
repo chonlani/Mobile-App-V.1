@@ -241,7 +241,7 @@ const styles = StyleSheet.create({
     error: {
         color: "#E9446A",
         fontSize: 13,
-        fontWeight: 600,
+        fontWeight: "600",
         textAlign: "center"
     },
     form: {
